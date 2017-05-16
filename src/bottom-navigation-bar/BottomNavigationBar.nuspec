@@ -1,26 +1,30 @@
 <?xml version="1.0"?>
-<package >
+<package>
   <metadata>
-    <id>BottomNavigationBar</id>
+    <id>LH.BottomNavigationBar</id>
     <version>1.4.0.2</version>
     <title>BottomNavigationBar</title>
-    <authors>pocheshire</authors>
-    <owners>pocheshire</owners>
+    <authors>pocheshire, Lukas Holota</authors>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
-    <projectUrl>https://github.com/pocheshire/BottomNavigationBar</projectUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>A custom view component that mimics the new Material Design Bottom Navigation pattern.</description>
-    <releaseNotes>Added new features</releaseNotes>
+    <projectUrl>https://github.com/lh-forcas/bottom-navigation-bar</projectUrl>
+    <description>A custom view component that mimics the new Material Design Bottom Navigation pattern.</description>   
     <copyright>Copyright 2016</copyright>
     <tags>XamarinAndroid Xamarin Android BottomNavigationBar Bottom Navigation Bar</tags>
 	<dependencies>
-      <dependency id="Newtonsoft.Json" version="9.0.1" />
-	  <dependency id="Xamarin.Android.Support.Animated.Vector.Drawable" version="23.3.0" />
-	  <dependency id="Xamarin.Android.Support.Design" version="23.3.0" />
-	  <dependency id="Xamarin.Android.Support.v4" version="23.3.0" />
-	  <dependency id="Xamarin.Android.Support.v7.AppCompat" version="23.3.0" />
-	  <dependency id="Xamarin.Android.Support.v7.RecyclerView" version="23.3.0" />
-	  <dependency id="Xamarin.Android.Support.Vector.Drawable" version="23.3.0" />
+      <dependency id="Newtonsoft.Json" version="9.0.1" />	  	  
+	  <dependency id="Xamarin.Android.Support.Animated.Vector.Drawable" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.Annotations" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.Compat" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.Core.UI" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.Core.Utils" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.Design" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.Fragment" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.Media.Compat" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.Transition" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.v4" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.v7.AppCompat" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.v7.RecyclerView" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.Vector.Drawable" version="25.3.1" />
     </dependencies>
   </metadata>
   <files>
