@@ -12,23 +12,22 @@
     <tags>XamarinAndroid Xamarin Android BottomNavigationBar Bottom Navigation Bar</tags>
 	<dependencies>
       <dependency id="Newtonsoft.Json" version="9.0.1" />	  	  
-	  <dependency id="Xamarin.Android.Support.Animated.Vector.Drawable" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.Annotations" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.Compat" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.Core.UI" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.Core.Utils" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.Design" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.Fragment" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.Media.Compat" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.Transition" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.v4" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.v7.AppCompat" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.v7.RecyclerView" version="25.3.1" />
-	  <dependency id="Xamarin.Android.Support.Vector.Drawable" version="25.3.1" />
+	  <dependency id="Xamarin.Android.Support.Animated.Vector.Drawable" version="25.1.0" />
+	  <dependency id="Xamarin.Android.Support.Compat" version="25.1.0" />
+	  <dependency id="Xamarin.Android.Support.Core.UI" version="25.1.0" />
+	  <dependency id="Xamarin.Android.Support.Core.Utils" version="25.1.0" />
+	  <dependency id="Xamarin.Android.Support.Design" version="25.1.0" />
+	  <dependency id="Xamarin.Android.Support.Fragment" version="25.1.0" />
+	  <dependency id="Xamarin.Android.Support.Media.Compat" version="25.1.0" />
+	  <dependency id="Xamarin.Android.Support.Transition" version="25.1.0" />
+	  <dependency id="Xamarin.Android.Support.v4" version="25.1.0" />
+	  <dependency id="Xamarin.Android.Support.v7.AppCompat" version="25.1.0" />
+	  <dependency id="Xamarin.Android.Support.v7.RecyclerView" version="25.1.0" />
+	  <dependency id="Xamarin.Android.Support.Vector.Drawable" version="25.1.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="bin/release/BottomNavigationBar.dll" target="lib/MonoAndroid403/BottomNavigationBar.dll" /> 
-    <file src="bin/release/BottomNavigationBar.xml" target="lib/MonoAndroid403/BottomNavigationBar.xml" /> 
+    <file src="bin/release/BottomNavigationBar.dll" target="lib/MonoAndroid70/BottomNavigationBar.dll" /> 
+    <file src="bin/release/BottomNavigationBar.xml" target="lib/MonoAndroid70/BottomNavigationBar.xml" /> 
 </files>
 </package>
